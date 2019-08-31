@@ -1,1 +1,1 @@
-# senior-engineer-checklist
+# Senior Engineer Checklist
