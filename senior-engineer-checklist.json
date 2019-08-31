@@ -1,6 +1,11 @@
-[
-	{
-		"tag": "one-on-one",
-		"item": "Do you have regular one-on-one with your manager?"
-	}
-]
+{
+  "draw": 1,
+  "recordsTotal": 1,
+  "recordsFiltered": 1,
+  "data": [
+    [
+      "one-on-one",
+      "Do you have regular one-on-one with your manager?"
+    ]
+  ]
+}
