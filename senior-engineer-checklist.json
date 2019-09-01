@@ -1,11 +1,25 @@
 {
-  "draw": 1,
-  "recordsTotal": 1,
-  "recordsFiltered": 1,
   "data": [
-    [
-      "one-on-one",
-      "Do you have regular one-on-one with your manager?"
-    ]
+    {
+      "category": "one-on-one",
+      "task": "Schedule regular one-on-one with your manager",
+      "difficulty": "low",
+      "caimpact": "high",
+      "coimpact": "low"
+    },
+    {
+      "category": "goals",
+      "task": "Deeply understand long term roadmap of your team",
+      "difficulty": "high",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "category": "goals",
+      "task": "Lead critical parts of long term roadmap of your team",
+      "difficulty": "high",
+      "caimpact": "high",
+      "coimpact": "high"
+    }
   ]
 }
