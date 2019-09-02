@@ -1,23 +1,100 @@
 {
   "data": [
     {
+      "task": "Schedule a regular one-on-one with your manager",
       "category": "one-on-one",
-      "task": "Schedule regular one-on-one with your manager",
-      "difficulty": "low",
-      "caimpact": "high",
-      "coimpact": "low"
-    },
-    {
-      "category": "goals",
-      "task": "Deeply understand long term roadmap of your team",
-      "difficulty": "high",
+      "difficuly": "low",
       "caimpact": "high",
       "coimpact": "high"
     },
     {
-      "category": "goals",
-      "task": "Lead critical parts of long term roadmap of your team",
-      "difficulty": "high",
+      "task": "Schedule a regular one-on-one with your skip level manager",
+      "category": "one-on-one",
+      "difficuly": "low",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "Define list of topics for next one-on-one discussion",
+      "category": "one-on-one",
+      "difficuly": "medium",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "[Reminder] One-on-one usually is not a status meeting",
+      "category": "one-on-one",
+      "difficuly": "medium",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "Involve the manager in your personal life (just a little though)",
+      "category": "managers",
+      "difficuly": "low",
+      "caimpact": "low",
+      "coimpact": "low"
+    },
+    {
+      "task": "Actively seek feedback from your manager",
+      "category": "managers",
+      "difficuly": "low",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "Keep your manager up-to-date in things you are involved with",
+      "category": "managers",
+      "difficuly": "low",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "Keep your manager up-to-date in things you are blocked on",
+      "category": "managers",
+      "difficuly": "low",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "Keep your manager up-to-date on people you have difficulty working with",
+      "category": "managers",
+      "difficuly": "medium",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "Discuss problems with you manager, but have some solutions beforehand",
+      "category": "managers",
+      "difficuly": "medium",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "Give constructive feedback to your manager",
+      "category": "managers",
+      "difficuly": "high",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "Discuss goals of your manager, and how you align your work with it",
+      "category": "managers",
+      "difficuly": "medium",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "If you are overworked, let your manager know",
+      "category": "managers",
+      "difficuly": "medium",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "If you are under-worked, ask your manager for areas to explore",
+      "category": "managers",
+      "difficuly": "medium",
       "caimpact": "high",
       "coimpact": "high"
     }
