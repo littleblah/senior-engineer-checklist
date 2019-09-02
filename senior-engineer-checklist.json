@@ -3,133 +3,133 @@
     {
       "task": "Schedule a regular one-on-one with your manager",
       "category": "one-on-one",
-      "difficuly": "low",
+      "difficulty": "low",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "Schedule a regular one-on-one with your skip level manager",
       "category": "one-on-one",
-      "difficuly": "low",
+      "difficulty": "low",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "Define list of topics for next one-on-one discussion",
       "category": "one-on-one",
-      "difficuly": "medium",
+      "difficulty": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "[Reminder] One-on-one usually is not a status meeting",
       "category": "one-on-one",
-      "difficuly": "medium",
+      "difficulty": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "Involve the manager in your personal life (just a little though)",
       "category": "managers",
-      "difficuly": "low",
+      "difficulty": "low",
       "caimpact": "low",
       "coimpact": "low"
     },
     {
       "task": "Actively seek feedback from your manager",
       "category": "managers",
-      "difficuly": "low",
+      "difficulty": "low",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "Keep your manager up-to-date in things you are involved with",
       "category": "managers",
-      "difficuly": "low",
+      "difficulty": "low",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "Keep your manager up-to-date in things you are blocked on",
       "category": "managers",
-      "difficuly": "low",
+      "difficulty": "low",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "Keep your manager up-to-date on people you have difficulty working with",
       "category": "managers",
-      "difficuly": "medium",
+      "difficulty": "medium",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "Discuss problems with you manager, but have some solutions beforehand",
       "category": "managers",
-      "difficuly": "medium",
+      "difficulty": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "Give constructive feedback to your manager",
       "category": "managers",
-      "difficuly": "high",
+      "difficulty": "high",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "Discuss goals of your manager, and how you align your work with it",
       "category": "managers",
-      "difficuly": "medium",
+      "difficulty": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "If you are overworked, let your manager know",
       "category": "managers",
-      "difficuly": "medium",
+      "difficulty": "medium",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "If you are under-utilized, ask your manager for areas to explore",
       "category": "managers",
-      "difficuly": "medium",
+      "difficulty": "medium",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "If you have an ineffective or neglectful manager, talk to your manager about your expectations",
       "category": "managers",
-      "difficuly": "high",
+      "difficulty": "high",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "If you have a micromanager, talk to your manager about your expectations",
       "category": "managers",
-      "difficuly": "high",
+      "difficulty": "high",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "If you have an abusive manager, talk to your skip manager or HR with data points",
       "category": "managers",
-      "difficuly": "high",
+      "difficulty": "high",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "If you have an ineffective skip manager and ineffective manager, switch the team or company",
       "category": "managers",
-      "difficuly": "high",
+      "difficulty": "high",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "If you do not have a cordial relationship with your manager, switch the team or company",
       "category": "managers",
-      "difficuly": "high",
+      "difficulty": "high",
       "caimpact": "high",
       "coimpact": "medium"
     }
