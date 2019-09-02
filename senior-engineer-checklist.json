@@ -3,135 +3,219 @@
     {
       "task": "Schedule a regular one-on-one with your manager",
       "category": "one-on-one",
-      "difficulty": "low",
+      "effort": "low",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "Schedule a regular one-on-one with your skip level manager",
       "category": "one-on-one",
-      "difficulty": "low",
+      "effort": "low",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "Define list of topics for next one-on-one discussion",
       "category": "one-on-one",
-      "difficulty": "medium",
+      "effort": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "[Reminder] One-on-one usually is not a status meeting",
       "category": "one-on-one",
-      "difficulty": "medium",
+      "effort": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "Involve the manager in your personal life (just a little though)",
       "category": "managers",
-      "difficulty": "low",
+      "effort": "low",
       "caimpact": "low",
       "coimpact": "low"
     },
     {
       "task": "Actively seek feedback from your manager",
       "category": "managers",
-      "difficulty": "low",
+      "effort": "low",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "Keep your manager up-to-date in things you are involved with",
       "category": "managers",
-      "difficulty": "low",
+      "effort": "low",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "Keep your manager up-to-date in things you are blocked on",
       "category": "managers",
-      "difficulty": "low",
+      "effort": "low",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "Keep your manager up-to-date on people you have difficulty working with",
       "category": "managers",
-      "difficulty": "medium",
+      "effort": "medium",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "Discuss problems with you manager, but have some solutions beforehand",
       "category": "managers",
-      "difficulty": "medium",
+      "effort": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "Give constructive feedback to your manager",
       "category": "managers",
-      "difficulty": "high",
+      "effort": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "Discuss goals of your manager, and how you align your work with it",
       "category": "managers",
-      "difficulty": "medium",
+      "effort": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "If you are overworked, let your manager know",
       "category": "managers",
-      "difficulty": "medium",
+      "effort": "low",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "If you are under-utilized, ask your manager for areas to explore",
       "category": "managers",
-      "difficulty": "medium",
+      "effort": "medium",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "If you have an ineffective or neglectful manager, talk to your manager about your expectations",
       "category": "managers",
-      "difficulty": "high",
+      "effort": "low",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "If you have a micromanager, talk to your manager about your expectations",
       "category": "managers",
-      "difficulty": "high",
+      "effort": "low",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "If you have an abusive manager, talk to your skip manager or HR with data points",
       "category": "managers",
-      "difficulty": "high",
+      "effort": "low",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "If you have an ineffective skip manager and ineffective manager, switch the team or company",
       "category": "managers",
-      "difficulty": "high",
+      "effort": "high",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
       "task": "If you do not have a cordial relationship with your manager, switch the team or company",
       "category": "managers",
-      "difficulty": "high",
+      "effort": "high",
       "caimpact": "high",
       "coimpact": "medium"
+    },
+    {
+      "task": "Ask for stretch projects from your manager, or help her identify one for you",
+      "category": "growth",
+      "effort": "medium",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "Strive for deep technical expertise in technologies used in your team",
+      "category": "growth",
+      "effort": "high",
+      "caimpact": "high",
+      "coimpact": "medium"
+    },
+    {
+      "task": "[Reminder] Leverage = impact produced/time invested. Use leverage as yardstick for effectiveness",
+      "category": "growth",
+      "effort": "high",
+      "caimpact": "high",
+      "coimpact": "low"
+    },
+    {
+      "task": "Increase your breadth of knowledge in technology",
+      "category": "growth",
+      "effort": "high",
+      "caimpact": "high",
+      "coimpact": "low"
+    },
+    {
+      "task": "Increase your breadth of knowledge in domain of your team/company",
+      "category": "growth",
+      "effort": "high",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "Explore emerging technologies by building small prototypes",
+      "category": "growth",
+      "effort": "high",
+      "caimpact": "medium",
+      "coimpact": "low"
+    },
+    {
+      "task": "Have strong mentors to help you navigate and grow in the company",
+      "category": "medium",
+      "effort": "high",
+      "caimpact": "high",
+      "coimpact": "low"
+    },
+    {
+      "task": "Read few technical books every year",
+      "category": "growth",
+      "effort": "high",
+      "caimpact": "high",
+      "coimpact": "low"
+    },
+    {
+      "task": "Measure what you want to improve. Make effort measurable.",
+      "category": "growth",
+      "effort": "medium",
+      "caimpact": "high",
+      "coimpact": "low"
+    },
+    {
+      "task": "Practice extreme ownership for things on your plate",
+      "category": "growth",
+      "effort": "high",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "Build a strong network of peers",
+      "category": "network",
+      "effort": "medium",
+      "caimpact": "high",
+      "coimpact": "low"
+    },
+    {
+      "task": "Invest time in effective networking with seniors, peers and juniors",
+      "category": "network",
+      "effort": "medium",
+      "caimpact": "high",
+      "coimpact": "low"
     }
   ]
 }
