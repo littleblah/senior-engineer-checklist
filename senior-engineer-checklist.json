@@ -15,7 +15,7 @@
       "coimpact": "low"
     },
     {
-      "task": "Define list of topics for next one-on-one discussion",
+      "task": "Maintain a list of topics for the next one-on-one discussion",
       "category": "one-on-one",
       "effort": "medium",
       "caimpact": "high",
@@ -64,7 +64,7 @@
       "coimpact": "medium"
     },
     {
-      "task": "Discuss problems with you manager, but have some solutions beforehand",
+      "task": "Discuss problems with your manager, but have some solutions beforehand",
       "category": "managers",
       "effort": "medium",
       "caimpact": "high",
@@ -78,7 +78,7 @@
       "coimpact": "low"
     },
     {
-      "task": "Discuss goals of your manager, and how you align your work with it",
+      "task": "Discuss the goals of your manager, and how you align your work with it",
       "category": "managers",
       "effort": "medium",
       "caimpact": "high",
@@ -148,7 +148,7 @@
       "coimpact": "medium"
     },
     {
-      "task": "[Reminder] Leverage = impact produced/time invested. Use leverage as yardstick for effectiveness",
+      "task": "[Reminder] Leverage = impact produced/time invested. Use leverage as a yardstick for effectiveness",
       "category": "growth",
       "effort": "high",
       "caimpact": "high",
@@ -162,7 +162,7 @@
       "coimpact": "low"
     },
     {
-      "task": "Increase your breadth of knowledge in domain of your team/company",
+      "task": "Increase your breadth of knowledge in the domain of your team/company",
       "category": "growth",
       "effort": "high",
       "caimpact": "high",
@@ -177,20 +177,27 @@
     },
     {
       "task": "Have strong mentors to help you navigate and grow in the company",
-      "category": "medium",
+      "category": "mentor",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Read few technical books every year",
+      "task": "Be a mentor to a couple of junior engineers",
+      "category": "mentor",
+      "effort": "medium",
+      "caimpact": "low",
+      "coimpact": "medium"
+    },
+    {
+      "task": "Read a few technical books every year",
       "category": "growth",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Measure what you want to improve. Make effort measurable.",
+      "task": "Measure what you want to improve. Make efforts measurable",
       "category": "growth",
       "effort": "medium",
       "caimpact": "high",
@@ -204,18 +211,179 @@
       "coimpact": "high"
     },
     {
-      "task": "Build a strong network of peers",
+      "task": "Take projects with high risk and high rewards",
+      "category": "growth",
+      "effort": "high",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "Maintain high visibility of projects which have a high risk",
+      "category": "growth",
+      "effort": "high",
+      "caimpact": "high",
+      "coimpact": "medium"
+    },
+    {
+      "task": "Invest time in networking effectively with seniors, peers, and juniors",
       "category": "network",
       "effort": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Invest time in effective networking with seniors, peers and juniors",
+      "task": "To deal with difficult folks, discuss with your managers and mentors",
+      "category": "network",
+      "effort": "low",
+      "caimpact": "low",
+      "coimpact": "low"
+    },
+    {
+      "task": "To deal with difficult folks, fall back to first principles",
+      "category": "network",
+      "effort": "low",
+      "caimpact": "low",
+      "coimpact": "low"
+    },
+    {
+      "task": "Be reachable to other engineers",
+      "category": "network",
+      "effort": "low",
+      "caimpact": "low",
+      "coimpact": "low"
+    },
+    {
+      "task": "Be involved with multiple projects as a consultant, a reviewer and/or a mentor",
       "category": "network",
       "effort": "medium",
+      "caimpact": "medium",
+      "coimpact": "medium"
+    },
+    {
+      "task": "Do not be adamant about your views. Listen to others and accept that there are more than one ways to look at a problem statement, and multiple valid solutions to a problem",
+      "category": "network",
+      "effort": "medium",
+      "caimpact": "medium",
+      "coimpact": "low"
+    },
+    {
+      "task": "Work on increasing your influence in other teams",
+      "category": "network",
+      "effort": "high",
+      "caimpact": "medium",
+      "coimpact": "medium"
+    },
+    {
+      "task": "Lead at least one major project with clear definition and target of successful delivery",
+      "category": "leadership",
+      "effort": "high",
+      "caimpact": "high",
+      "coimpact": "high"
+    },
+    {
+      "task": "Follow principles of extreme ownership",
+      "category": "leadership",
+      "effort": "high",
+      "caimpact": "high",
+      "coimpact": "medium"
+    },
+    {
+      "task": "Work towards disambiguating ambiguous problem statements",
+      "category": "leadership",
+      "effort": "high",
+      "caimpact": "medium",
+      "coimpact": "medium"
+    },
+    {
+      "task": "Have a huge bias for action and delivery, but do not over-compromise on quality. Push back if required",
+      "category": "leadership",
+      "effort": "high",
+      "caimpact": "medium",
+      "coimpact": "medium"
+    },
+    {
+      "task": "Demand accountability and ownership from others",
+      "category": "leadership",
+      "effort": "high",
+      "caimpact": "low",
+      "coimpact": "medium"
+    },
+    {
+      "task": "Simplify code, systems, and architectures relentlessly",
+      "category": "technology",
+      "effort": "high",
+      "caimpact": "low",
+      "coimpact": "high"
+    },
+    {
+      "task": "Demand high-quality work from others, but be pragmatic",
+      "category": "technology",
+      "effort": "medium",
+      "caimpact": "low",
+      "coimpact": "high"
+    },
+    {
+      "task": "Question everything and ask \"why\" repetitively until you get to the root of problems and situations",
+      "category": "technology",
+      "effort": "high",
+      "caimpact": "medium",
+      "coimpact": "low"
+    },
+    {
+      "task": "Design and develop systems appropriate to scale, extensibility, and scope of the problem. Avoid over-engineering",
+      "category": "technology",
+      "effort": "high",
+      "caimpact": "medium",
+      "coimpact": "medium"
+    },
+    {
+      "task": "Prioritize fixing tech-debt in code, systems, and architecture when the incremental cost to develop keeps rising",
+      "category": "technology",
+      "effort": "high",
+      "caimpact": "low",
+      "coimpact": "medium"
+    },
+    {
+      "task": "Document extensively, and demand it from others. Document \"why\" more than \"how\"",
+      "category": "technology",
+      "effort": "high",
+      "caimpact": "low",
+      "coimpact": "medium"
+    },
+    {
+      "task": "When dealing with politics, avoid it, but have right folks vouch for your work",
+      "category": "politics",
+      "effort": "high",
+      "caimpact": "medium",
+      "coimpact": "low"
+    },
+    {
+      "task": "When dealing with politics, fallback to first principles",
+      "category": "politics",
+      "effort": "high",
+      "caimpact": "low",
+      "coimpact": "low"
+    },
+    {
+      "task": "If politics thrives due to team of company culture, switch",
+      "category": "politics",
+      "effort": "high",
       "caimpact": "high",
       "coimpact": "low"
+    },
+    {
+      "task": "If you get involved in office-gossips, avoid it",
+      "category": "politics",
+      "effort": "low",
+      "caimpact": "medium",
+      "coimpact": "low"
+    },
+    {
+      "task": "Get involved with hiring for your team and company, and maintain a high bar for hiring quality candidates",
+      "category": "hiring",
+      "effort": "medium",
+      "caimpact": "low",
+      "coimpact": "high"
     }
   ]
 }
