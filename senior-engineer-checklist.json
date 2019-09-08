@@ -8,43 +8,50 @@
       "coimpact": "high"
     },
     {
-      "task": "Get involved with hiring for your team and company, and maintain a high bar for hiring quality candidates",
+      "task": "Understand the business aspect of your work, and what makes money. Eventually, only that matters",
       "category": "hiring",
       "effort": "medium",
       "caimpact": "low",
       "coimpact": "high"
     },
     {
-      "task": "Design and develop systems appropriate to scale, extensibility, and scope of the problem. Avoid over-engineering",
+      "task": "Get involved with hiring for your team and company, and maintain a high bar for hiring quality candidates",
       "category": "technology",
       "effort": "high",
       "caimpact": "medium",
       "coimpact": "medium"
     },
     {
-      "task": "Question everything and ask \"why\" repetitively until you get to the root of problems and situations",
+      "task": "Design and develop systems appropriate to scale, extensibility, and scope of the problem. Avoid over-engineering",
       "category": "technology",
       "effort": "high",
       "caimpact": "medium",
       "coimpact": "low"
     },
     {
-      "task": "Demand accountability and ownership from others",
+      "task": "Question everything and ask \"why\" repetitively until you get to the root of problems and situations",
       "category": "leadership",
       "effort": "high",
       "caimpact": "low",
       "coimpact": "medium"
     },
     {
-      "task": "Lead at least one major project with clear definition and target of successful delivery",
+      "task": "Demand accountability and ownership from others",
       "category": "leadership",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "high"
     },
     {
-      "task": "Work towards disambiguating ambiguous problem statements",
+      "task": "Lead at least one major project with clear definition and target of successful delivery",
       "category": "leadership",
+      "effort": "high",
+      "caimpact": "medium",
+      "coimpact": "medium"
+    },
+    {
+      "task": "Work towards disambiguating ambiguous problem statements",
+      "category": "network",
       "effort": "high",
       "caimpact": "medium",
       "coimpact": "medium"
@@ -52,98 +59,98 @@
     {
       "task": "Work on increasing your influence in other teams",
       "category": "network",
-      "effort": "high",
+      "effort": "medium",
       "caimpact": "medium",
-      "coimpact": "medium"
+      "coimpact": "low"
     },
     {
       "task": "Do not be adamant about your views. Listen to others and accept that there are more than one ways to look at a problem statement, and multiple valid solutions to a problem",
       "category": "network",
       "effort": "medium",
       "caimpact": "medium",
-      "coimpact": "low"
-    },
-    {
-      "task": "Be involved with multiple projects as a consultant, a reviewer and/or a mentor",
-      "category": "network",
-      "effort": "medium",
-      "caimpact": "medium",
       "coimpact": "medium"
     },
     {
-      "task": "Follow principles of extreme ownership",
+      "task": "Be involved with multiple projects as a consultant, a reviewer and/or a mentor",
       "category": "leadership",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
-      "task": "Have strong mentors to help you navigate and grow in the company",
+      "task": "Follow principles of extreme ownership",
       "category": "mentor",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "low"
+    },
+    {
+      "task": "Have strong mentors to help you navigate and grow in the company",
+      "category": "growth",
+      "effort": "high",
+      "caimpact": "high",
+      "coimpact": "high"
     },
     {
       "task": "Take projects with high risk and high rewards",
       "category": "growth",
       "effort": "high",
       "caimpact": "high",
-      "coimpact": "high"
-    },
-    {
-      "task": "Strive for deep technical expertise in technologies used in your team",
-      "category": "growth",
-      "effort": "high",
-      "caimpact": "high",
       "coimpact": "medium"
     },
     {
-      "task": "Ask for stretch projects from your manager, or help her identify one for you",
+      "task": "Strive for deep technical expertise in technologies used in your team",
       "category": "growth",
       "effort": "medium",
       "caimpact": "high",
       "coimpact": "high"
     },
     {
-      "task": "Discuss the goals of your manager, and how you align your work with it",
+      "task": "Ask for stretch projects from your manager, or help her identify one for you",
       "category": "managers",
       "effort": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Invest time in networking effectively with seniors, peers, and juniors",
+      "task": "Discuss the goals of your manager, and how you align your work with it",
       "category": "network",
       "effort": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Be a mentor to a couple of junior engineers",
+      "task": "Invest time in networking effectively with seniors, peers, and juniors",
       "category": "mentor",
       "effort": "medium",
       "caimpact": "low",
       "coimpact": "medium"
     },
     {
-      "task": "Increase your breadth of knowledge in the domain of your team/company",
+      "task": "Be a mentor to a couple of junior engineers",
       "category": "growth",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "high"
     },
     {
-      "task": "Drive your own one-on-ones. Maintain a list of topics for the next one-on-one discussion",
+      "task": "Increase your breadth of knowledge in the domain of your team/company",
       "category": "one-on-one",
       "effort": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Discuss problems with your manager, but have some solutions beforehand",
+      "task": "Drive your one-on-ones. Maintain a list of topics for the next one-on-one discussion",
       "category": "managers",
       "effort": "medium",
+      "caimpact": "high",
+      "coimpact": "low"
+    },
+    {
+      "task": "Discuss problems with your manager, but have some solutions beforehand",
+      "category": "growth",
+      "effort": "high",
       "caimpact": "high",
       "coimpact": "low"
     },
@@ -151,29 +158,29 @@
       "task": "Increase your breadth of knowledge in technology",
       "category": "growth",
       "effort": "high",
-      "caimpact": "high",
+      "caimpact": "medium",
       "coimpact": "low"
     },
     {
       "task": "Explore emerging technologies by building small prototypes",
       "category": "growth",
       "effort": "high",
-      "caimpact": "medium",
-      "coimpact": "low"
-    },
-    {
-      "task": "Read a few technical books every year",
-      "category": "growth",
-      "effort": "high",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Before suggesting the next big shiny technology for your production stack, understand its pros and cons thoroughly",
+      "task": "Read a few technical books every year",
       "category": "technology",
       "effort": "high",
       "caimpact": "medium",
       "coimpact": "high"
+    },
+    {
+      "task": "Before suggesting the next big shiny technology for your production stack, understand its pros and cons thoroughly",
+      "category": "one-on-one",
+      "effort": "low",
+      "caimpact": "high",
+      "coimpact": "low"
     },
     {
       "task": "Schedule a regular one-on-one with your manager",
@@ -185,22 +192,22 @@
     {
       "task": "Schedule a regular one-on-one with your skip level manager",
       "category": "one-on-one",
-      "effort": "low",
+      "effort": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
       "task": "[Reminder] One-on-one usually is not a status meeting",
-      "category": "one-on-one",
-      "effort": "medium",
-      "caimpact": "high",
+      "category": "managers",
+      "effort": "low",
+      "caimpact": "low",
       "coimpact": "low"
     },
     {
       "task": "Involve the manager in your personal life (just a little though)",
       "category": "managers",
       "effort": "low",
-      "caimpact": "low",
+      "caimpact": "high",
       "coimpact": "low"
     },
     {
@@ -208,7 +215,7 @@
       "category": "managers",
       "effort": "low",
       "caimpact": "high",
-      "coimpact": "low"
+      "coimpact": "medium"
     },
     {
       "task": "Keep your manager up-to-date in things you are involved with",
@@ -220,7 +227,7 @@
     {
       "task": "Keep your manager up-to-date in things you are blocked on",
       "category": "managers",
-      "effort": "low",
+      "effort": "medium",
       "caimpact": "high",
       "coimpact": "medium"
     },
@@ -229,26 +236,26 @@
       "category": "managers",
       "effort": "medium",
       "caimpact": "high",
-      "coimpact": "medium"
-    },
-    {
-      "task": "Give constructive feedback to your manager",
-      "category": "managers",
-      "effort": "medium",
-      "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "If you are overworked, let your manager know",
+      "task": "Give constructive feedback to your manager",
       "category": "managers",
       "effort": "low",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
-      "task": "If you are under-utilized, ask your manager for areas to explore",
+      "task": "If you are overworked, let your manager know",
       "category": "managers",
       "effort": "medium",
+      "caimpact": "high",
+      "coimpact": "medium"
+    },
+    {
+      "task": "If you are under-utilized, ask your manager for areas to explore",
+      "category": "managers",
+      "effort": "low",
       "caimpact": "high",
       "coimpact": "medium"
     },
@@ -269,7 +276,7 @@
     {
       "task": "If you have an abusive manager, talk to your skip manager or HR with data points",
       "category": "managers",
-      "effort": "low",
+      "effort": "high",
       "caimpact": "high",
       "coimpact": "medium"
     },
@@ -282,31 +289,31 @@
     },
     {
       "task": "If you do not have a cordial relationship with your manager, switch the team or company",
-      "category": "managers",
-      "effort": "high",
-      "caimpact": "high",
-      "coimpact": "medium"
-    },
-    {
-      "task": "[Reminder] Leverage = impact produced/time invested. Use leverage as a yardstick for effectiveness",
       "category": "growth",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Measure what you want to improve. Make efforts measurable",
+      "task": "[Reminder] Leverage = impact produced/time invested. Use leverage as a yardstick for effectiveness",
       "category": "growth",
       "effort": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Maintain high visibility of projects which have a high risk",
+      "task": "Measure what you want to improve. Make efforts measurable",
       "category": "growth",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "medium"
+    },
+    {
+      "task": "Maintain high visibility of projects which have a high risk",
+      "category": "network",
+      "effort": "low",
+      "caimpact": "low",
+      "coimpact": "low"
     },
     {
       "task": "To deal with difficult folks, discuss with your managers and mentors",
@@ -324,31 +331,31 @@
     },
     {
       "task": "Be reachable to other engineers",
-      "category": "network",
-      "effort": "low",
-      "caimpact": "low",
-      "coimpact": "low"
-    },
-    {
-      "task": "Have a huge bias for action and delivery, but do not over-compromise on quality. Push back if required",
       "category": "leadership",
       "effort": "high",
       "caimpact": "medium",
       "coimpact": "medium"
     },
     {
-      "task": "Simplify code, systems, and architectures relentlessly",
+      "task": "Have a huge bias for action and delivery, but do not over-compromise on quality. Push back if required",
       "category": "technology",
       "effort": "high",
       "caimpact": "low",
       "coimpact": "high"
     },
     {
-      "task": "Demand high-quality work from others, but be pragmatic",
+      "task": "Simplify code, systems, and architectures relentlessly",
       "category": "technology",
       "effort": "medium",
       "caimpact": "low",
       "coimpact": "high"
+    },
+    {
+      "task": "Demand high-quality work from others, but be pragmatic",
+      "category": "technology",
+      "effort": "high",
+      "caimpact": "low",
+      "coimpact": "medium"
     },
     {
       "task": "Prioritize fixing tech-debt in code, systems, and architecture when the incremental cost to develop keeps rising",
@@ -359,52 +366,52 @@
     },
     {
       "task": "Document extensively, and demand it from others. Document \"why\" more than \"how\"",
-      "category": "technology",
+      "category": "politics",
       "effort": "high",
-      "caimpact": "low",
-      "coimpact": "medium"
+      "caimpact": "medium",
+      "coimpact": "low"
     },
     {
       "task": "When dealing with politics, avoid it, but have right folks vouch for your work",
       "category": "politics",
       "effort": "high",
-      "caimpact": "medium",
+      "caimpact": "low",
       "coimpact": "low"
     },
     {
       "task": "When dealing with politics, fallback to first principles",
       "category": "politics",
       "effort": "high",
-      "caimpact": "low",
-      "coimpact": "low"
-    },
-    {
-      "task": "If politics thrives due to team of company culture, switch",
-      "category": "politics",
-      "effort": "high",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "If you get involved in office-gossips, avoid it",
+      "task": "If politics thrives due to team of company culture, switch",
       "category": "politics",
       "effort": "low",
       "caimpact": "medium",
       "coimpact": "low"
     },
     {
-      "task": "Avoid stretching yourself too thin to be effective",
+      "task": "If you get involved in office-gossips, avoid it",
       "category": "leadership",
       "effort": "medium",
       "caimpact": "medium",
       "coimpact": "low"
     },
     {
-      "task": "Respect code and systems that came before you. There are reasons of every code and every guard that exists in production",
+      "task": "Avoid stretching yourself too thin to be effective",
       "category": "technology",
       "effort": "low",
       "caimpact": "low",
       "coimpact": "medium"
+    },
+    {
+      "task": "Respect code and systems that came before you. There are reasons for every code and every guard that exists in production",
+      "category": "technology",
+      "effort": "medium",
+      "caimpact": "medium",
+      "coimpact": "high"
     },
     {
       "task": "Before you suggest major refactors, ensure you understand the system deeply",
@@ -415,10 +422,10 @@
     },
     {
       "task": "If you believe you can refactor major systems to achieve simplification, chances are you will end up with a similarly complex system after some time",
-      "category": "technology",
-      "effort": "medium",
-      "caimpact": "medium",
-      "coimpact": "high"
+      "category": "",
+      "effort": "",
+      "caimpact": "",
+      "coimpact": ""
     }
   ]
 }
