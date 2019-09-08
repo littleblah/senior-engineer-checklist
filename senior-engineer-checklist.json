@@ -1,175 +1,175 @@
 {
   "data": [
     {
-      "task": "Understand the business aspect of your work, and what makes money. Eventually, only that matters",
+      "task": "Understand the business aspect of your work, and what makes money. Eventually, only that matters.",
       "category": "leadership",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "high"
     },
     {
-      "task": "Get involved with hiring for your team and company, and maintain a high bar for hiring quality candidates",
+      "task": "Get involved with hiring for your team and company, and maintain a high bar for hiring quality candidates.",
       "category": "hiring",
       "effort": "medium",
       "caimpact": "low",
       "coimpact": "high"
     },
     {
-      "task": "Design and develop systems appropriate to scale, extensibility, and scope of the problem. Avoid over-engineering",
+      "task": "Design and develop systems appropriate to scale, extensibility, and scope of the problem. Avoid over-engineering.",
       "category": "technology",
       "effort": "high",
       "caimpact": "medium",
       "coimpact": "medium"
     },
     {
-      "task": "Question everything and ask \"why\" repetitively until you get to the root of problems and situations",
+      "task": "Question everything and ask “why” repetitively until you get to the root of problems and situations.",
       "category": "technology",
       "effort": "high",
       "caimpact": "medium",
       "coimpact": "low"
     },
     {
-      "task": "Demand accountability and ownership from others",
+      "task": "Demand accountability and ownership from others.",
       "category": "leadership",
       "effort": "high",
       "caimpact": "low",
       "coimpact": "medium"
     },
     {
-      "task": "Lead at least one major project with clear definition and target of successful delivery",
+      "task": "Lead at least one major project with a clear definition and target of successful delivery.",
       "category": "leadership",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "high"
     },
     {
-      "task": "Work towards disambiguating ambiguous problem statements",
+      "task": "Work towards disambiguating ambiguous problem statements.",
       "category": "leadership",
       "effort": "high",
       "caimpact": "medium",
       "coimpact": "medium"
     },
     {
-      "task": "Work on increasing your influence in other teams",
+      "task": "Work on increasing your influence on other teams.",
       "category": "network",
       "effort": "high",
       "caimpact": "medium",
       "coimpact": "medium"
     },
     {
-      "task": "Do not be adamant about your views. Listen to others and accept that there are more than one ways to look at a problem statement, and multiple valid solutions to a problem",
+      "task": "Do not be adamant about your views. Listen to others and accept that there is more than one way to look at a problem statement, and multiple valid solutions to a problem.",
       "category": "network",
       "effort": "medium",
       "caimpact": "medium",
       "coimpact": "low"
     },
     {
-      "task": "Be involved with multiple projects as a consultant, a reviewer and/or a mentor",
+      "task": "Be involved with multiple projects as a consultant, a reviewer and/or a mentor.",
       "category": "network",
       "effort": "medium",
       "caimpact": "medium",
       "coimpact": "medium"
     },
     {
-      "task": "Follow principles of extreme ownership",
+      "task": "Follow the principles of extreme ownership.",
       "category": "leadership",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
-      "task": "Have strong mentors to help you navigate and grow in the company",
+      "task": "Have strong mentors to help you navigate and grow in the company.",
       "category": "mentor",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Take projects with high risk and high rewards",
+      "task": "Take projects with high risk and high rewards.",
       "category": "growth",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "high"
     },
     {
-      "task": "Strive for deep technical expertise in technologies used in your team",
+      "task": "Strive for deep technical expertise in technologies used in your team.",
       "category": "growth",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "medium"
     },
     {
-      "task": "Ask for stretch projects from your manager, or help her identify one for you",
+      "task": "Ask for stretch projects from your manager, or help her identify one for you.",
       "category": "growth",
       "effort": "medium",
       "caimpact": "high",
       "coimpact": "high"
     },
     {
-      "task": "Discuss the goals of your manager, and how you align your work with it",
+      "task": "Discuss the goals of your manager, and how you align your work with it.",
       "category": "managers",
       "effort": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Invest time in networking effectively with seniors, peers, and juniors",
+      "task": "Invest time in networking effectively with seniors, peers, and juniors.",
       "category": "network",
       "effort": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Be a mentor to a couple of junior engineers",
+      "task": "Be a mentor to a couple of junior engineers.",
       "category": "mentor",
       "effort": "medium",
       "caimpact": "low",
       "coimpact": "medium"
     },
     {
-      "task": "Increase your breadth of knowledge in the domain of your team/company",
+      "task": "Increase your breadth of knowledge in the domain of your team/company.",
       "category": "growth",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "high"
     },
     {
-      "task": "Drive your one-on-ones. Maintain a list of topics for the next one-on-one discussion",
+      "task": "Drive your one-on-ones. Maintain a list of topics for the next one-on-one discussion.",
       "category": "one-on-one",
       "effort": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Discuss problems with your manager, but have some solutions beforehand",
+      "task": "Discuss problems with your manager, but have some solutions beforehand.",
       "category": "managers",
       "effort": "medium",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Increase your breadth of knowledge in technology",
+      "task": "Increase your breadth of knowledge in technology.",
       "category": "growth",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Explore emerging technologies by building small prototypes",
+      "task": "Explore emerging technologies by building small prototypes.",
       "category": "growth",
       "effort": "high",
       "caimpact": "medium",
       "coimpact": "low"
     },
     {
-      "task": "Read a few technical books every year",
+      "task": "Read a few technical books every year.",
       "category": "growth",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "Before suggesting the next big shiny technology for your production stack, understand its pros and cons thoroughly",
+      "task": "Before suggesting the next big shiny technology for your production stack, understand its pros and cons thoroughly.",
       "category": "technology",
       "effort": "high",
       "caimpact": "medium",
