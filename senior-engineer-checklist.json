@@ -422,7 +422,7 @@
     },
     {
       "task": "If you believe you can refactor major systems to achieve simplification, chances are you will end up with a similarly complex system after some time",
-      "category": "",
+      "category": "technology",
       "effort": "medium",
       "caimpact": "medium",
       "coimpact": "medium"
