@@ -1,6 +1,6 @@
 # Senior Engineer Checklist
 
-I created this checklist for my person use when I joined a new company as a senior engineer. Feel free to create a pull request.
+I created this checklist for my use when I joined a new company as a senior engineer. Feel free to create a pull request.
 
 Visit [https://littleblah.com/](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/) to select, filter and download this data as csv.
 
