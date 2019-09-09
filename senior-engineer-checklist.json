@@ -36,7 +36,7 @@
       "coimpact": "medium"
     },
     {
-      "task": "Lead at least one major project with a clear definition and target of successful delivery.",
+      "task": "Once you understand the company's needs, lead at least one high-impact project with a clear definition and target of successful delivery.",
       "category": "leadership",
       "effort": "high",
       "caimpact": "high",
@@ -50,7 +50,7 @@
       "coimpact": "medium"
     },
     {
-      "task": "Work on increasing your influence on other teams.",
+      "task": "Cultivate relationships with other teams and develop trust.",
       "category": "network",
       "effort": "high",
       "caimpact": "medium",
@@ -211,7 +211,7 @@
       "coimpact": "low"
     },
     {
-      "task": "Keep your manager up-to-date in things you are involved with",
+      "task": "Keep your manager up-to-date in things you are involved with, but don't get bogged down in unnecessary detail",
       "category": "managers",
       "effort": "low",
       "caimpact": "high",
@@ -365,28 +365,28 @@
       "coimpact": "medium"
     },
     {
-      "task": "When dealing with politics, avoid it, but have right folks vouch for your work",
+      "task": "Avoid politics, but have right folks vouch for your work",
       "category": "politics",
       "effort": "high",
       "caimpact": "medium",
       "coimpact": "low"
     },
     {
-      "task": "When dealing with politics, fallback to first principles",
+      "task": "When dealing with politics, fall back to first principles",
       "category": "politics",
       "effort": "high",
       "caimpact": "low",
       "coimpact": "low"
     },
     {
-      "task": "If politics thrives due to team of company culture, switch",
+      "task": "If politics thrives due to team or company culture, switch",
       "category": "politics",
       "effort": "high",
       "caimpact": "high",
       "coimpact": "low"
     },
     {
-      "task": "If you get involved in office-gossips, avoid it",
+      "task": "Try not to get involved in office gossip",
       "category": "politics",
       "effort": "low",
       "caimpact": "medium",
@@ -414,7 +414,7 @@
       "coimpact": "high"
     },
     {
-      "task": "If you believe you can refactor major systems to achieve simplification, chances are you will end up with a similarly complex system after some time",
+      "task": "Resist the urge to refactor major systems to achieve simplification, because there's a risk you will end up with a similarly complex system after some time",
       "category": "technology",
       "effort": "medium",
       "caimpact": "medium",
