@@ -419,6 +419,13 @@
       "effort": "medium",
       "caimpact": "medium",
       "coimpact": "high"
+    },
+    {
+      "task": "Be part of a community by contributing with discussions, content creation, and career advices. This will help you to build authority and relevance in the field",
+      "category": "network",
+      "effort": "medium",
+      "caimpact": "high",
+      "coimpact": "low"
     }
   ]
 }
